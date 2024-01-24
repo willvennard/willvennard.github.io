@@ -40,7 +40,7 @@ function Projects(props) {
             externalLink="true"
             tools={["React", "Bootstrap", "JS"]}
             description="Recipe sharing platform and community."
-            descriptionLong="Something something"
+            descriptionLong="Leading the design and development of a recipe-sharing platform using React with TypeScript and • Bootstrap, ensuring a highly maintainable and responsive application"
             roll="co-founder"
           />
         </div>
