@@ -71,7 +71,7 @@ function App() {
 
           <ul className="nav">
             <li>
-              <a href="https://github.com/williamvennard">
+              <a href="https://github.com/willvennard">
                 <svg
                   className="socialIcon"
                   aria-labelledby="simpleicons-github-icon"

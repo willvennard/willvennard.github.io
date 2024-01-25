@@ -4,8 +4,7 @@ This is my personal portfolio. Built using React and Node.js and freaturing some
 
 All the code is on GitHub, so that potential employers, clients and colleagues can feel free to look around.
 
-Check out the live version here (https://williamvennard.github.io/wills-page).
-
+Check out the live version here (https://willvennard.github.io).
 
 ## Available Scripts
 
@@ -25,6 +24,7 @@ Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run deploy`
+
 Deploy app onto
 
 ### `npm run build`
