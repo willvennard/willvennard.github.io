@@ -6,6 +6,8 @@ All the code is on GitHub, so that potential employers, clients and colleagues c
 
 Check out the live version here (https://willvennard.github.io/portfolio-page).
 
+THIS IS A TEST
+
 ## Available Scripts
 
 In the project directory, you can run:
