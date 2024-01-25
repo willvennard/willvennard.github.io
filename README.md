@@ -1,6 +1,6 @@
 ## Portfolio
 
-This is my personal portfolio. Built using React and Node.js and freaturing some of my most recent projects.
+This is my personal portfolio. Built using React, Bootstrap, and Node.js and freaturing some of my most recent projects.
 
 All the code is on GitHub, so that potential employers, clients and colleagues can feel free to look around.
 
