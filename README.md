@@ -4,7 +4,7 @@ This is my personal portfolio. Built using React and Node.js and freaturing some
 
 All the code is on GitHub, so that potential employers, clients and colleagues can feel free to look around.
 
-Check out the live version here (https://willvennard.github.io).
+Check out the live version here (https://willvennard.github.io/portfolio-page).
 
 ## Available Scripts
 
