@@ -54,7 +54,7 @@ function App() {
           <ul className="nav">
             <li className="nav-item">
               <Link to="/" className="item">
-                Home
+                Homie
               </Link>
             </li>
             <li className="nav-item">
