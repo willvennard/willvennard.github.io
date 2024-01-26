@@ -30,7 +30,7 @@ function Footer(props) {
               </svg>
             </a>
           </div>
-          <span id="copyright">&copy;2020 William Vennard</span>
+          <span id="copyright">&copy;2024 William Vennard</span>
         </div>
       </footer>
     </div>
