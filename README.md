@@ -25,7 +25,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run deploy`
 
-Deploy app onto
+Deploy app onto https://willvennard.github.io using gh-pages, config on github.com
 
 ### `npm run build`
 

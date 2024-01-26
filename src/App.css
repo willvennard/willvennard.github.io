@@ -22,7 +22,7 @@ h2 {
 .App {
   font-family: Open-Sans-Light;
   color: white;
-  background-color: #2e2532;
+  background-color: #050505;
   line-height: 150%;
 }
 
@@ -145,7 +145,7 @@ h2 {
 }
 
 #board {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgb(201, 142, 102);
 }
 
 #score {
@@ -154,7 +154,6 @@ h2 {
 
 .snake-container {
   min-height: 100vh;
-  color: black;
   text-align: center;
   color: white;
   /*background-color: #e5e5e5;*/
